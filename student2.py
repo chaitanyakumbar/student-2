@@ -1,0 +1,10 @@
+name = input ("enter the name ")
+age = input ("enter the age ")
+usn = input ("enter the usn")
+address = input ("enter the address ")
+
+print(f"student details " )
+ print (f"name":,{name})
+print (f"age":,{age})
+print(f"usn":,{usn})
+print(f"address":,{address})
